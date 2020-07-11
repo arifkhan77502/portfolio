@@ -1,0 +1,23 @@
+.wraper1{
+  background-image: url("images/header-bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.wraper2{
+  background-image: url("images/biography-bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.wraper3{
+  background-image: url("images/latest-work-bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 500px; 
+}
+.wraper4{
+  background-image: url("images/footer-bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%; 
+}
